@@ -20,9 +20,12 @@ This circuit has two inputs S & R and two outputs Qtt & Qtt’. The operation of
 
 Here, Qtt & Qt+1t+1 are present state & next state respectively. So, SR flip-flop can be used for one of these three functions such as Hold, Reset & Set based on the input conditions, when positive transition of clock signal is applied. The following table shows the characteristic table of SR flip-flop. Present Inputs Present State Next State
 
+![300540000-dd90d16c-aec5-4290-a586-e2346b1e9eb5](https://github.com/user-attachments/assets/22e59043-1284-40e1-8f9f-7edbb3cded71)
 
 
 By using three variable K-Map, we can get the simplified expression for next state, Qt+1t+1. The three variable K-Map for next state, Qt+1t+1 is shown in the following figure.
+
+![300540120-473efad6-d70b-4ca7-aeb7-898bbfca319f](https://github.com/user-attachments/assets/b0048c43-0699-471d-ab94-a5151a9215fe)
 
 
 
